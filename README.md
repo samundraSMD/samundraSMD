@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samundraSMD
+- 👋 Hi, I’m @samundra adhikari
 - 👀 I’m interested in Front End
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on front end web develpoment
 - 📫 email me at asamundraadk17@gmail.com or whatsapp at +977 9804140073
 - 😄 Pronouns: He
